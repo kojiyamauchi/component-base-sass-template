@@ -14,6 +14,7 @@
 
   @include isLargeMobile {}
 
+  // scoped.
   .letter {
     font-size: 2.4em;
     font-weight: lighter;
@@ -22,5 +23,5 @@
     @include isLargeMobile {}
 
   }
-  
+
 }

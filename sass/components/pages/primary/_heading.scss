@@ -14,6 +14,7 @@
 
   @include isLargeMobile {}
 
+  // scoped.
   .heading01 {
     font-size: 2.4em;
     font-weight: lighter;
@@ -22,6 +23,5 @@
     @include isLargeMobile {}
 
   }
-  
 
 }
